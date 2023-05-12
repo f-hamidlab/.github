@@ -6,4 +6,4 @@ Our lab is interested in understanding the molecular mechanisms underlying neuro
 
 We also form part of the Bioinformatics Core team at the Centre for Developmental Neurobiology, designed to facilitate the processing and the analysis of high-throughput “omics” and functional imaging data.
 
-Check out our [repositories]() for more information on the type of research we do.
+Check out our [repositories](https://github.com/orgs/f-hamidlab/repositories) for more information on the type of research we do.
